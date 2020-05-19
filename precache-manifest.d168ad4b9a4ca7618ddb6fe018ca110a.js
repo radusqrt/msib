@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d3ba44b6d7d3d556cdfad5231b9296e",
+    "revision": "e5e02529e757898e62457cea028188e8",
     "url": "/msib/index.html"
   },
   {
-    "revision": "0ecae9c99d9d671d0880",
+    "revision": "74b5235d3a72993cf369",
     "url": "/msib/static/css/main.27fd15f6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/msib/static/js/2.56fa325f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0ecae9c99d9d671d0880",
-    "url": "/msib/static/js/main.903003bb.chunk.js"
+    "revision": "74b5235d3a72993cf369",
+    "url": "/msib/static/js/main.cccb3435.chunk.js"
   },
   {
     "revision": "a3fb884aa4f9a509397f",
