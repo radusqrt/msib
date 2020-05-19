@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/msib/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/msib/static/js/main.cccb3435.chunk.js",
-    "main.js.map": "/msib/static/js/main.cccb3435.chunk.js.map",
+    "main.js": "/msib/static/js/main.88a3b357.chunk.js",
+    "main.js.map": "/msib/static/js/main.88a3b357.chunk.js.map",
     "runtime-main.js": "/msib/static/js/runtime-main.ff5495f8.js",
     "runtime-main.js.map": "/msib/static/js/runtime-main.ff5495f8.js.map",
     "static/js/2.56fa325f.chunk.js": "/msib/static/js/2.56fa325f.chunk.js",
     "static/js/2.56fa325f.chunk.js.map": "/msib/static/js/2.56fa325f.chunk.js.map",
     "index.html": "/msib/index.html",
-    "precache-manifest.d168ad4b9a4ca7618ddb6fe018ca110a.js": "/msib/precache-manifest.d168ad4b9a4ca7618ddb6fe018ca110a.js",
+    "precache-manifest.4c15f8f0f6d14dbe1000d92393f71b8a.js": "/msib/precache-manifest.4c15f8f0f6d14dbe1000d92393f71b8a.js",
     "service-worker.js": "/msib/service-worker.js",
     "static/css/main.27fd15f6.chunk.css.map": "/msib/static/css/main.27fd15f6.chunk.css.map",
     "static/js/2.56fa325f.chunk.js.LICENSE.txt": "/msib/static/js/2.56fa325f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ff5495f8.js",
     "static/js/2.56fa325f.chunk.js",
     "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.cccb3435.chunk.js"
+    "static/js/main.88a3b357.chunk.js"
   ]
 }
